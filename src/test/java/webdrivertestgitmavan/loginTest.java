@@ -31,7 +31,7 @@ public class loginTest {
 		
 		driver.findElement(By.xpath("html/body/div[1]/div[1]/div[2]/div[2]/form/div[2]/div/div[1]/div[1]/div/div[1]/div/div[1]/input")).sendKeys("chetan290@gmail.com");
 		driver.findElement(By.xpath("html/body/div[1]/div[1]/div[2]/div[2]/form/div[2]/div/div[2]/div[1]/div/content")).click();
-		System.out.println("Example to Git, Github using Mavan");
+		System.out.println("Example to Git, Gitub using Mavan");
 		//driver.findElement(By.xpath("html/body/div[1]/div[1]/div[2]/div[2]/form/div[2]/div/div/div[1]/div[1]/div/div[1]/div/div[1]/input")).sendKeys("abcd");
 	}
 	
